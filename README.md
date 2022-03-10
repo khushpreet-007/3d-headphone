@@ -6,6 +6,9 @@ directions. Add a description layer to describe certain features of the headphon
 The description layer is visible only when the user rotates the headphone and lands on a specific side.
 Add a motion blur to headphones when the user rotates them.
 
+Url- https://app.vectary.com/viewer/v1/?model=a789cdc4-7265-46f8-98ad-d337856f2a07&env=studio3
+
+
 Color used: 
 #ffe600
 #1f1f1e
